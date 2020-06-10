@@ -18,7 +18,7 @@ module.exports = {
         '"Noto Color Emoji"',
       ],
       display: [
-        'Montserrat',
+        'Raleway',
         'system-ui',
         '-apple-system',
         'BlinkMacSystemFont',
@@ -34,7 +34,7 @@ module.exports = {
         '"Noto Color Emoji"',
       ],
       body: [
-      'Raleway',
+      'Montserrat',
       'system-ui',
       '-apple-system',
       'BlinkMacSystemFont',
